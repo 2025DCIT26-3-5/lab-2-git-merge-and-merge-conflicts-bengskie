@@ -3,7 +3,5 @@
 <<<<<<< HEAD
 # LabActivity2 
 # Lero, Jannah
-# LabActivity2
-
 # Generalao, Algie
 
